@@ -1,0 +1,40 @@
+.game-iframe-box{
+
+}
+.game-iframe-box iframe{
+  display: flex;
+  margin: 0 auto;
+}
+.text-center{
+  text-align: center;
+}
+.top-text-box{
+  margin-top: 20px;
+  font-size: 23px;
+}
+body{
+  margin: 0;
+  font-family: 游ゴシック,sans-serif;
+}
+.operation-heading-text{
+  font-size: 23px;
+}
+.explanation-box{
+  margin: 0 auto;
+  max-width: 1000px;
+  padding-left: 50px;
+}
+.explanation-text{
+  font-size: 19px;
+  padding-top: 10px;
+}
+.link{
+  color: rgb(59, 59, 255);
+}
+.explanations-box{
+  display: flex;
+  justify-content: space-between; 
+  margin: 0 auto;
+  max-width: 1700px;
+  padding-top: 50px;
+}
